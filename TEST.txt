@@ -1,0 +1,103 @@
+1] datatatype variablename;
+
+2] no
+
+3] yes
+
+4] yes
+
+5]
+
+6]no
+
+7] yes 
+
+8]yes
+
+9]int arr[4]={1,2,3,4};
+
+10] o/p is= this is array element array[n] array[n-1] array[n-2].........array[1]
+
+11] * write the program on the java script
+    * save with file_name.java extension
+    * open command prompt
+    *take acces to your path give command javac file_name.java
+    *if no error give command java main method file_name
+
+12] javac is nothing but java compiler used to convert source code in byte code
+    java is nothing but a programing language here we write set of instruction to perform some task
+
+
+13]   It loads classes from different resources. Java ClassLoader is used to load the classes at run time.  JVM performs the linking process at runtime. Classes are loaded into the JVM 
+      according to need. If a loaded class depends on another class, that class is loaded as well. When we request to load a class, it delegates the class to its parent.
+  
+14]    if n is the size of the array. If a request for  an index greater than or equal to the size of the array is made, then the JAVA throws an ArrayIndexOutOfBounds  
+      Exception
+
+
+15] why bcz java has primitive data types these datatypes are not pure objects
+
+16] jdk=java development kit  it provides the platform to execute java program
+    jre= java run time environment it is a set of software instruction used to drive other software application
+    jvm= java virtual machine it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs   
+    which are written in other languages and compiled to Java bytecode.
+
+17] new constructor
+
+18]yes
+
+19] it means it is platform independent, bcz of its byte code
+
+20] creation of own method
+
+21] java virtual machine it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs   
+    which are written in other languages and compiled to Java bytecode.
+
+22] each class has its own state and behaviour
+    state is nothing but variable (static variable=class   non static variable=instance)
+    behaviour is nothing but method(static method and non statis method)
+
+23] causal argument
+    rebustal argument
+    proposal argument
+    formal argument
+    actual argument
+
+24]
+
+25]  variable is that holds the value 
+
+26]  heap
+
+27]  assigning value to the decalred variable
+
+28] 
+
+29]int variable,string variable,double variable etc..
+
+30] convert the byte code into machine code
+
+32] WORA = write once run anywhere
+
+33] go to commsand prompt
+   type "java-version"
+
+34] latest version 17 LTS on the Java SE Platform.
+
+35] class is blue print of an object(instance)
+
+36] object is nothing but instances of an class
+
+37] class class_name{}
+
+38] static void method_name(object){}
+
+39] constructor is a method ,special method bcz it is always joines with new keyword
+    used to create copy of the class
+    and used to initialize the instance variable during execution
+
+
+25] 
+
+
+
