@@ -1,0 +1,74 @@
+1] compiler error
+
+2] 10,10
+  
+   110
+
+3] it wii shows error bcz no flower bracket after condition
+
+4]It is an acces modifier method in main method. We create main method in public acess specifier to excute it by any program, so it is 
+  required to define main method public.
+
+5]class Arrayr{
+	public static void main(String[] args){
+		 
+	int[] reverse = {10, 45, 7, 9, 2};
+	
+	
+	for(int rev=4; rev>=0; rev--){
+		System.out.println("Reverse order :"+ reverse[rev]);
+	}
+}
+}
+
+
+6] 
+
+7] Done
+
+8]this  keyword is used to refer to the current object, i.e. through which the method is called.
+  this() is used to call one constructor from the other of the same class.
+
+9] class Swapping {
+	
+		public static void main(String[] args)
+		{
+			
+			int a=20;
+			int b=30;
+			
+			System.out.println("before swapping :" +a+","+b);
+			
+			
+			 a=a+b;
+			 b=a-b;
+		     a=a-b;
+			
+			System.out.println("after swapping :" +a+","+b);
+			
+			
+		}
+ }
+
+10] 
+
+1   class Pattern1 {
+	public static void main(String[] args){
+	System.out.println("&   &\n  &  \n&   &");
+	}
+        }
+
+2
+         class Pattern2 {
+	public static void main(String[] args){
+	System.out.println("% % %\n% & %\n% % %");
+	}
+        }
+
+3
+        class Pattern2 {
+	public static void main(String[] args){
+	System.out.println("% % %\n%   %\n% % %");
+	}
+        }
+
